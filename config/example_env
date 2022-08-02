@@ -1,0 +1,15 @@
+# rc95 30/07/2022 04:15
+
+# credenciales SQL
+SERVER="localhost"
+DB_NAME="db-test"
+DB_USER="user-test"
+DB_PWD="user-test-password-123456"
+
+# credenciales del sa (necesarios para crear la BD si no existe..)
+SA_USER="tu-usuario-sa"
+SA_PWD="el-password-de-tu-usuario-sa"
+
+# otras credenciale
+USER="ejemplo"
+PWD="ejemplo-password"
